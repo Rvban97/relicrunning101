@@ -1,12 +1,12 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Introduction](README.md)
+* [Why run relics?](why-run-relics.md)
 
-## Getting Started
+## BASICS
 
-* [Getting started](getting-started/getting-started.md)
-* [Quickstart](getting-started/quickstart.md)
-* [Your first project](getting-started/your-first-project.md)
+* [Frame builds](basics/frame-builds.md)
+* [Your first project](basics/your-first-project.md)
 
 ## Core concepts
 
